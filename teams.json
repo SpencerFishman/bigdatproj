@@ -1,0 +1,927 @@
+[
+  {
+    "team name":"Cardinals",
+    "2012": {
+        "stadium": "University of Phoenix Stadium",
+        "lat":"33.5276",
+        "long":"-112.2626"
+    },
+    "2013": {
+        "stadium": "University of Phoenix Stadium",
+        "lat":"33.5276",
+        "long":"-112.2626"
+    },
+    "2014": {
+        "stadium": "University of Phoenix Stadium",
+        "lat":"33.5276",
+        "long":"-112.2626"
+    },
+    "2015": {
+        "stadium": "University of Phoenix Stadium",
+        "lat":"33.5276",
+        "long":"-112.2626"
+    },
+    "2016": {
+        "stadium": "University of Phoenix Stadium",
+        "lat":"33.5276",
+        "long":"-112.2626"
+    }
+  },
+  {
+    "team name":"Falcons",
+    "2012": {
+        "stadium": "Georgia Dome",
+        "lat":"33.7577",
+        "long":"-84.4008"
+    },
+    "2013": {
+      "stadium": "Georgia Dome",
+      "lat":"33.7577",
+      "long":"-84.4008"
+    },
+    "2014": {
+        "stadium": "Georgia Dome",
+        "lat":"33.7577",
+        "long":"-84.4008"
+    },
+    "2015": {
+      "stadium": "Georgia Dome",
+      "lat":"33.7577",
+      "long":"-84.4008"
+    },
+    "2016": {
+      "stadium": "Georgia Dome",
+      "lat":"33.7577",
+      "long":"-84.4008"
+    }
+  },
+  {
+    "team name":"Ravens",
+    "2012": {
+        "stadium": "M&T Bank Stadium",
+        "lat":"39.2780",
+        "long":"-76.6227"
+    },
+    "2013": {
+      "stadium": "M&T Bank Stadium",
+      "lat":"39.2780",
+      "long":"-76.6227"
+    },
+    "2014": {
+        "stadium": "M&T Bank Stadium",
+        "lat":"39.2780",
+        "long":"-76.6227"
+    },
+    "2015": {
+      "stadium": "M&T Bank Stadium",
+      "lat":"39.2780",
+      "long":"-76.6227"
+    },
+    "2016": {
+      "stadium": "M&T Bank Stadium",
+      "lat":"39.2780",
+      "long":"-76.6227"
+    }
+  },
+  
+  {
+    "team name":"Bills",
+    "2012": {
+        "stadium": "New Era Field",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "New Era Field",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "New Era Field",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "New Era Field",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "New Era Field",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Panthers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Bears",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Bengals",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Browns",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Cowboys",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Broncos",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Lions",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Packers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Texans",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Colts",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Jaguars",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Chiefs",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Dolphins",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Vikings",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Patriots",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Saints",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Giants",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Jets",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Raiders",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Eagles",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Steelers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Rams",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Chargers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"49ers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Seahawks",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Buccaneers",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Titans",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  },
+
+  {
+    "team name":"Redskins",
+    "2012": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2013": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2014": {
+        "stadium": "",
+        "lat":"BMW",
+        "long":"Fiat"
+    },
+    "2015": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    },
+    "2016": {
+      "stadium": "",
+      "lat":"BMW",
+      "long":"Fiat"
+    }
+  }
+]
