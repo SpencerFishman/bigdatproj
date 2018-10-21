@@ -1,5 +1,5 @@
 class nflTeam:
-    def __init__(self,city,mascot,lat,long,):
+    def __init__(self,city,mascot,lat,long):
         self.city = city
         self.mascot = mascot
         self.fullName = self.city + self.mascot
