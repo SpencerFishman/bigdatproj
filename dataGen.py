@@ -8,5 +8,5 @@ def main():
 if __name__ == '__main__':
     import sys
     import pandas as pd
-    from lib import teams
+    from modules import teams
     main()
