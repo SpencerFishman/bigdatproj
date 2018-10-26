@@ -1,4 +1,4 @@
-from lib import nflTeam
+from modules import nflTeam
 
 
 Ravens = nflTeam.NFLTeam("Baltimore","Ravens",39.2778962,-76.6245498)
@@ -29,7 +29,16 @@ Vikings = nflTeam.NFLTeam("Minnesota","Vikings",44.973889,-93.258056)
 Saints = nflTeam.NFLTeam("New Orleans","Saints",29.951061,-90.0834329)
 Giants = nflTeam.NFLTeam("New York","Giants",40.8128397,-74.0763978)
 Eagles= nflTeam.NFLTeam("Philadelphia","Eagles",39.9007674,-75.1696522)
-Fortyniners = nflTeam.NFLTeam("San Francisco","49ers",37.7343181,-122.429401)
+FortyNiners = nflTeam.NFLTeam("San Francisco","FortyNiners",37.7343181,-122.429401)
 Seahawks = nflTeam.NFLTeam("Seattle","Seahawks",47.5951518,-122.3338281)
 Buccaneers = nflTeam.NFLTeam("Tampa Bay","Buccaneers",27.9758691,-82.5055231)
 Redskins = nflTeam.NFLTeam("Washington","Redskins",38.9076433,-76.8667341)
+
+nflTeams = [Ravens,Bills,Bengals,Browns,Broncos,Texans,Colts,Jaguars,Chiefs,Chargers,Dolphins,Patriots,Jets,Raiders,Steelers,Titans,Cardinals,Falcons,Panthers,Bears,Cowboys,Lions,Packers,Rams,Vikings,Saints,Giants,Eagles,FortyNiners,Seahawks,Buccaneers,Redskins]
+
+def assignment(teamStr):
+    if teamStr == 'San Francisco 49ers':
+        teamStr = 'San Francisco FortyNiners'
+    for team in nflTeams:
+        if teamStr.split()[-1] == team.mascot:
+            return team
