@@ -1,7 +1,10 @@
 def main():
     dataPath = sys.path[0] + r'\dataset\nflDataset.xlsx'
-    gc.sol1(dataPath,pd,tm)
+    output = gc.sol1(dataPath,pd,tm)
 
+    writer = pd.ExcelWriter('output.xlsx')
+    output.to_excel(writer,'Sheet1')
+    writer.save()
 
 
 if __name__ == '__main__':
