@@ -2,7 +2,7 @@ def main():
     dataPath = sys.path[0] + r'\dataset\nflDataset.xlsx'
     output = gc.sol1(dataPath,pd,tm)
 
-    writer = pd.ExcelWriter('output.xlsx')
+    writer = pd.ExcelWriter('outputnew.xlsx')
     output.to_excel(writer,'Sheet1')
     writer.save()
 

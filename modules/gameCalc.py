@@ -37,9 +37,12 @@ def sol1(filePath,pd,tm):
         else:
                 actAwayTeam = actMidNum
                 actHomeTeam = actMidNum
-        dfRow = [distance, teamAway.fullName, teamHome.fullName, projWinner, projMargin,actWinner,actMargin]
+        
+        #dfRow = [distance.miles, teamAway.fullName, teamHome.fullName,projWinner,projMargin,actWinner,actMargin,actMargin - projMargin]
+        dfRow = [distance.miles, teamAway.fullName, teamHome.fullName,projWinner,projAwayTeam,projHomeTeam,projTot,projMargin,actWinner,actAwayTeam,actHomeTeam,actTot,actMargin,actMargin-projMargin, -((projMargin/projTot)-(actMargin/actTot))]
         bigList.append(dfRow)
-    myDf=pd.DataFrame(bigList,columns=['Travel Distance','Away Team','Home Team','Projected Winner','Projected Margin of Victory','Actual Winner', 'Actual Margin of Victory'])
-    print(myDf)
+    #myDf=pd.DataFrame(bigList,columns=['Travel Distance','Away Team','Home Team','Projected Winner','Projected Margin v. Home Team','Actual Winner', 'Actual Margin v. Home Team','Performance'])
+    myDf=pd.DataFrame(bigList,columns=['Travel Distance','Away Team','Home Team','Projected Winner','Projected Away Score', 'Projected Home Score','Projected Over Under','Projected Margin v. Home Team','Actual Winner', 'Actual Away Score','Actual Home Score','Actual Over Under','Actual Margin v. Home Team','Performance (Margin Comp)','Performance (Scaled Margin Comp)',])
+    #print(myDf)
     return myDf
     
